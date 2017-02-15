@@ -1,0 +1,4 @@
+Controller\MainController.class
+Entity\User.class
+Application.class
+Repository\UserRepository.class
